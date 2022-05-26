@@ -1,0 +1,133 @@
+img{
+    border-style: none;
+    vertical-align: middle;
+}
+body{
+    background-color: darkslategrey;
+}
+h5{
+    font-size: 18px;
+}
+h3{
+    font-size: 24px;
+}
+.ph-center{
+    text-align: center !important;
+}
+.ph-content{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ph-display-container{
+    position: relative;
+}
+.ph-image{
+    max-width: 100%;
+    height: auto;
+}
+.ph-text-light-grey{
+    color: #f1f1f1 !important;
+}
+.ph-padding-large{
+    padding: 12px 24px !important;
+}
+.ph-light-grey{
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+}
+.ph-border{
+    border: 1px solid #ccc;
+}
+.ph-wide{
+    letter-spacing: 4px;
+}
+.ph-display-middle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ph-xxxlarge{
+    font-size: 48px !important;
+}
+.ph-hide-medium{
+    display: none !important;
+}
+.ph-border:hover{
+    background-color: palevioletred;
+}
+.ph-center .ph-bar{
+    display: inline-block;
+    width: auto;
+}
+
+.ph-round{
+    border-radius: 4px;
+}
+.ph-display-bottommiddle{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.ph-bar{
+    overflow: hidden;
+}
+.ph-button{
+    white-space: normal;
+    color: #000;
+    text-decoration: none; 
+}
+.ph-button:hover{
+    background-color: #000;
+    color: aliceblue;
+}
+.ph-bar .ph-bar-item{
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    display: block;
+    border: none;
+    outline: 0;
+}
+.ph-padding-16{
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+}
+.ph-padding-32{
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+}
+.ph-margin-top{
+    margin-top: 24px !important;
+}
+.ph-content{
+    max-width: 1000px;
+}
+.ph-section{
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+}
+.ph-input{
+    padding: 8px;
+    display: block;
+    width: 100%;
+    border: 1px solid;
+}
+.ph-block{
+    display: block;
+    width: 100%;
+}
+.ph-dark-grey{
+    color: #000;
+    background-color: #616161;
+}
+.ph-hover-link{
+    color: #4CAF50;
+}
+.ph-pd{
+    padding: 10px;
+    max-width: 500px;
+    margin-left: 215px;
+    margin-right: 200px;
+}
+
